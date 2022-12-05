@@ -181,9 +181,10 @@ aside > ul {
 }
 
 footer {
-  background-color: var(--cor-5);
+  background-image:linear-gradient(to top, var(--cor-4), var(--cor-5));
   color: white;
   text-align: center;
+  padding: 20px;
 }
 
 footer a {
